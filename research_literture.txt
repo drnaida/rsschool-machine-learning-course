@@ -6,3 +6,6 @@ literature used:
 1. missins data
 2. dealing with syntax errors
 3. context
+
+изучить tenson_flow
+изучить питон
