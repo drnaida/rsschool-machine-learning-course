@@ -1,0 +1,8 @@
+literature used:
+1. https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15
+2. https://shopify.engineering/conducting-exploratory-data-analysis
+3. https://habr.com/ru/company/mlclass/blog/270973/
+
+1. missins data
+2. dealing with syntax errors
+3. context
