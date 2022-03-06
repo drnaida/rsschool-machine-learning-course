@@ -15,5 +15,3 @@ literature used:
   11. посмотреть outliers по отдельным классам / портам+
 
 правый борт пострадал первым
-
-Q1 - 1,5*IQR, Q3 + 1,5*IQR, kde pmf = discrete values, pdf = continuos features
