@@ -2,10 +2,18 @@ literature used:
 1. https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15
 2. https://shopify.engineering/conducting-exploratory-data-analysis
 3. https://habr.com/ru/company/mlclass/blog/270973/
+1. сделать категоризацию данных++
+  2. создать категорию семья, и возраст с fare поделить в категории по 10 длля возраста и fare по 20/ потом, сначала графы, вычленить номер палубы из билета
+3. добавить объяснение к fare++
+4. ourliers++
+5. проанализировать, что изменилось после missing data ++
+6. сделать выводы по missing data++
+7. начать делать кучу графов по статье титаник+
+8. сделать summary statistics?++
+9. сделать visualizinng data?++
+  10. посмотреть с kde?
+  11. посмотреть outliers по отдельным классам / портам+
 
-1. missins data
-2. dealing with syntax errors
-3. context
+правый борт пострадал первым
 
-изучить tenson_flow
-изучить питон
+Q1 - 1,5*IQR, Q3 + 1,5*IQR, kde pmf = discrete values, pdf = continuos features
