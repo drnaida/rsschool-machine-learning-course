@@ -12,10 +12,20 @@ literature used:
 7. начать делать кучу графов по статье титаник+
 8. сделать summary statistics++
 9. сделать visualizinng data++
-10. посмотреть outliers по отдельным классам / портам+
-11. подменить palette для понятности
-12. подчеркнуть жирным нужные места
+10. посмотреть outliers по отдельным классам / портам++
+11. подменить palette для понятности, посмотреть название графов
 13. написать вывод
 
 правый борт пострадал первым, исследовать
 длина имени
+
+- around 41% of people had 3rd Pclass
+- 56% of people were men
+- median age is 38
+- around 73% percent had no Siblings, Spouses, Parents or Children with them
+- mean fare is around 43.92
+- around 72% percent of people came from 'S' port
+- 67% percent of Cabins are Not stated, and 11% of cabins were located on 'C' deck
+- almost half of people were adults, and 20% were young adults
+- around 61% travelled without relatives
+- 85% of Fares were below 75
