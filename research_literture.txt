@@ -28,3 +28,6 @@ and people in 1st and 2nd classes had more chances to survive
 - men in the Adults AgeGroup had the highest chance of survival among men
 - people who had 0 relatives travelling with them had slightly smaller chances to survive
 - people from 'C' and 'Q' ports had more than a half chance of survival which can be explained by the fact that majority of the people from the ports had cabins in 1st and 2nd Pclasses
+- a lot more men travelled alone than women
+- most of people in each AgeGroup but 'Child' travelled alone. 20% of children travelled alone.
+- Fare didn't directly depend on Sex or Age although assosiated with it (differences can be due to Pclasses)
