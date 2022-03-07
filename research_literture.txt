@@ -19,13 +19,12 @@ literature used:
 правый борт пострадал первым, исследовать
 длина имени
 
-- around 41% of people had 3rd Pclass
-- 56% of people were men
-- median age is 38
-- around 73% percent had no Siblings, Spouses, Parents or Children with them
-- mean fare is around 43.92
-- around 72% percent of people came from 'S' port
-- 67% percent of Cabins are Not stated, and 11% of cabins were located on 'C' deck
-- almost half of people were adults, and 20% were young adults
-- around 61% travelled without relatives
-- 85% of Fares were below 75
+- half of adults and seniors survived while other AgeGroups weren't so lucky. Adults and Seniors could have higher chances to survive because they primarily bought 1st and 2nd Pclass,
+and people in 1st and 2nd classes had more chances to survive
+- women had significantly higher chances to survive than men no matter what age females had, it can be because women and children were put first on the lifeboats by the captains order
+- people in 3rd had significantly smaller chances to survive compared to people in 1st and 2nd classes
+- decks cannot show us insights because 70% of the data is lost. However, people with lost Deck data are more likely to be dead.
+- most women were in 1st and 2nd Pclasses. Moreover most of women in 1st and 2nd class survived, while for 3rd class half of women survived
+- men in the Adults AgeGroup had the highest chance of survival among men
+- people who had 0 relatives travelling with them had slightly smaller chances to survive
+- people from 'C' and 'Q' ports had more than a half chance of survival which can be explained by the fact that majority of the people from the ports had cabins in 1st and 2nd Pclasses
