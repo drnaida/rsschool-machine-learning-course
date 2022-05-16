@@ -1,7 +1,7 @@
 # Here I present 2 solutions
 
 # #1 Solution is mine. I was working on it for 4 days without stops :)
-Screenshot:
+Screenshot: ![](original_solution.PNG)
 
 Solution is in the my-tryings.ipynb file in this branch bonus-task-cover-type.
 
