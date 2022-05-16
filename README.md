@@ -5,8 +5,8 @@ Screenshot: ![](original_solution.PNG)
 
 Solution is in the my-tryings.ipynb file in this branch bonus-task-cover-type.
 
-# #2 Solution is my solution with a very crusial idea I took from public kaggle
+# #2 Solution is my solution with an idea I took from public kaggle about splitting my extra tree classifier
 
-Screenshot:
+Screenshot: !()[second_solution.PNG]
 
-Solution is in the my-tryings.ipynb in another branch named bonus-task-2.
+Solution is in the my-tryings_with_splitted_extra_trees.ipynb in another branch named bonus-task-2.
